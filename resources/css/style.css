@@ -1,0 +1,38 @@
+* {
+    font-family: Verdana, Tahoma, sans-serif;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+}
+
+p {
+    font-size: 21px;
+    color: grey;
+}
+
+section {
+    text-align: center;
+}
+
+footer {
+    text-align: right;
+}
+
+ h1 {
+    font-size: 50px;
+ }
+
+ h2 {
+     font-size: 42px;
+     font-weight: 300;
+ }
